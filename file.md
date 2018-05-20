@@ -1,2 +1,1 @@
-**file**
-====
+> Wiki is like a leaky bucket of information. It's losing information every day. But more information is coming in, so the net is positive. Even if it can lose things, wiki always has more to say than it did the day before. - Ward Cunningham
